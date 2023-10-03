@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer / Designer
 ------------------------
 
-I am a Front-End Developer at Creative-tim and currently working on Material Tailwind.
+I am a Front-End Developer at Decipheron and currently working on Material Tailwind.
 
 * 🌍  I'm based in Kabul
 * ✉️  You can contact me at [sanam.hamza9@gmail.com](mailto:sanam.hamza9@gmail.com)
